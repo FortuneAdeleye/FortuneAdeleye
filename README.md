@@ -1,5 +1,5 @@
 ### Fortune Adeleye (he/him)
-![image](https://github.com/FortuneAdeleye/FortuneAdeleye/assets/142922953/c3408e1b-6876-4fbc-b9dc-7c1282b8c980)
+![image](https://github.com/FortuneAdeleye/fortune-adeleye/assets/142922953/f7ebba0f-d152-40c7-8b86-f37fbdfaea78)
 - 🙋🏿‍♂️ Interested in full stack Engineering 
 - 🏫 Bachelors in Computer Engineering at [Western Michigan University](https://wmich.edu/)
 - 📍 Chicago, IL
