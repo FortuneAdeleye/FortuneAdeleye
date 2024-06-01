@@ -3,7 +3,7 @@
 - 🙋🏿‍♂️ Interested in full stack Engineering 
 - 🏫 Pursuing Bachelors in Computer Engineering at [Western Michigan University](https://wmich.edu/)
 - 📍 Chicago, IL
-- 🇳🇬🇺🇸
+- 🇳🇬🇺🇸 
  
 # My hobbies you may ask :)
 
